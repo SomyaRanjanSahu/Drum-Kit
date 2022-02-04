@@ -1,7 +1,7 @@
 
-var numberOfDrumButtons = document.querySelectorAll(".drum").length;
-
 // -------------------------- Selecting drum buttons ----------------------------
+
+var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
 

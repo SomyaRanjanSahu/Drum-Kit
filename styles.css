@@ -16,6 +16,15 @@ footer {
   font-family: sans-serif;
 }
 
+a{
+  color: #DBEDF3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #DA0463;
+}
+
 .w {
   background-image: url(images/tom1.png);
 }
